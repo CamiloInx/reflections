@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates a directory called ".git" in which it will save all the commits and versions of my code.
+I need to initialize a repository to allow Git keep track of whatever I'm doing.
+
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+In the staging allows me to have more control of what changes to be commited.
+
