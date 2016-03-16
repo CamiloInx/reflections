@@ -1,0 +1,36 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+I can easily see what were the changes I made from one version of my code to the latest version
+in that way I can look for typos, parts that were accidentaly deleted and other sort of things
+that may have happend during the coding process.
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+In that way I can see the progress and changes while coding a program. Also the history is helpful
+to have a back up point in case something goes wrong.
+
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+The pros of manually creating the commits are that you only create a commit when there is a logical change in code, so in that way you have just the right ammount of version control files. The cons are that if you don't create a commit in a logical way, you will have too small commits or too large commits and that can lead to confusions.
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because Git is thought to be used in code, so in that way when some promgram involves multiple files, it can easily control the version of the files and its commits.
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+Using these commands I can compare different versions of the code efficiently and easily. The changes among the versions can tell me about the history of the files by simply comparing the changes in the code registered on the commits in the log.
+
+
+How might using version control make you more confident to make changes that could break something?
+
+Now, even if I make some big mistake deleting a line of code or making a typo, I can see in a easy and clear way what the error might be. In that way I won't waste so much time on looking for errors in the code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Use it to try with some python projects that I'm working on eclipse code editor.
