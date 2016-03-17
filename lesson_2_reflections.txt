@@ -1,6 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-Git creates a directory called ".git" in which it will save all the commits and versions of my code.
+Git creates a directory called ".git" in which it will save all the commits and 
+versions of my code.
 I need to initialize a repository to allow Git keep track of whatever I'm doing.
 
 
@@ -9,3 +10,43 @@ What value do you think it offers?
 
 In the staging allows me to have more control of what changes to be commited.
 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+In the staging area I can see the files that have been added with the intention of 
+adding a specific commit.
+
+
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+When trying new things in the code that you are not sure are going to work.
+When making changes to maybe create a different version of the code.
+When moving to a different kind of work.
+When creating experimental software. To keep it away of the stable version.
+When colaborating piblicly.
+To switch on work.
+Keep things organized when collaborating with others.
+Branches helps, taking care of creating and keeping control of the code implemented
+on the specific brach.
+
+
+How do the diagrams help you visualize the branch structure?
+It makes easier to understando the structure and flow of our code, so in that way
+you can find what commits  belong to what branch and also what commints are reachable
+by thtat brach.
+
+
+What is the result of merging two branches together? Why do we represent it in the 
+diagram the way we do?
+
+The code of two branches become one. 
+We represenit in that way to have clear what branches were merged and wath commits
+were to each previous branch.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pros are that it is faster to merge the code and also easier.
+The cons are that some times it can produce some conflicts or errors while merging,
+so you will have to find manually wath that problems are and how to fix them.
